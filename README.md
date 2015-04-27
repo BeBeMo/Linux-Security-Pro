@@ -6,6 +6,9 @@
 
 ##一键体检:
 ![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E4%BD%93%E6%A3%801.png)
+
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E4%BD%93%E6%A3%801.png  width="500" height="300" />
+
 ![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E4%BD%93%E6%A3%802.png)
 ![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E4%BD%93%E6%A3%803.png)
 ##垃圾清理:
