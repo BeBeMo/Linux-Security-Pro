@@ -25,9 +25,9 @@
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E4%BD%93%E6%A3%80.png" alt="GitHub"  width="500" height="300" />
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E4%BF%AE%E5%A4%8D.png" alt="GitHub"  width="500" height="300" />
 ##垃圾清理:
-![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%861.png)
-![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE.png)
-![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%9F%A5%E7%9C%8B%E5%9E%83%E5%9C%BE2.png)
-![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%9F%A5%E7%9C%8B%E5%9E%83%E5%9C%BE.png)
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%861.png" alt="GitHub"  width="500" height="300" />
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE.png" alt="GitHub"  width="500" height="300" />
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%9F%A5%E7%9C%8B%E5%9E%83%E5%9C%BE2.png" alt="GitHub"  width="500" height="300" />
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/qt/%E6%9F%A5%E7%9C%8B%E5%9E%83%E5%9C%BE.png" alt="GitHub"  width="500" height="300" />
 
 
