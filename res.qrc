@@ -1,0 +1,78 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="leftico">images/leftico.png</file>
+        <file alias="MINBTN">images/MINBTN3.png</file>
+        <file alias="CLSBTN">images/CLSBTN5.png</file>
+        <file alias="lockico">images/lock副本.png</file>
+        <file alias="usrico">images/user副本.png</file>
+        <file alias="lockico２">images/lock2.png</file>
+        <file alias="usrico２">images/user2.png</file>
+        <file alias="logoico2">images/未标题-12.png</file>
+        <file alias="logoico1">images/未标题-14.png</file>
+        <file alias="logo">images/logo.png</file>
+        <file alias="4">images/4.png</file>
+        <file alias="shield">images/shield.png</file>
+        <file>images/zomble.png</file>
+        <file>images/ufw.png</file>
+        <file>images/time.png</file>
+        <file>images/t10.png</file>
+        <file>images/t9.png</file>
+        <file>images/t8.png</file>
+        <file>images/t7.png</file>
+        <file>images/t6.png</file>
+        <file>images/t5.png</file>
+        <file>images/t4.png</file>
+        <file>images/t3.png</file>
+        <file>images/t2.png</file>
+        <file>images/t1.png</file>
+        <file>images/speed.png</file>
+        <file>images/fullbin.png</file>
+        <file>images/emptybin.png</file>
+        <file>images/e3.png</file>
+        <file>images/e1.png</file>
+        <file>images/cpu.png</file>
+        <file>images/cache.png</file>
+        <file alias="mem1">images/mem1.png</file>
+        <file alias="mem">images/mem.png</file>
+        <file alias="cpu2">images/cpu2.png</file>
+        <file alias="cpu1">images/cpu1.png</file>
+        <file alias="com1">images/com1.png</file>
+        <file alias="com">images/com.png</file>
+        <file alias="board1">images/board1.png</file>
+        <file alias="board">images/board.png</file>
+        <file>images/wps.png</file>
+        <file>images/virusfile.png</file>
+        <file>images/terminal.png</file>
+        <file>images/software-center.png</file>
+        <file>images/safefile.png</file>
+        <file>images/qt.png</file>
+        <file>images/qq.png</file>
+        <file>images/google.png</file>
+        <file>images/full_scan.png</file>
+        <file>images/firefox.png</file>
+        <file>images/file.png</file>
+        <file>images/evnice.png</file>
+        <file>images/dariay.png</file>
+        <file>images/custom_scan.png</file>
+        <file>images/amazon.png</file>
+        <file>images/user.png</file>
+        <file alias="showpwdico">images/eye_24.png</file>
+        <file alias="FLOWBTN">images/流量.jpg</file>
+        <file alias="2-1">images/首页.jpg</file>
+        <file alias="mytrayico">images/logo1.png</file>
+        <file alias="fireico">images/防火墙.png</file>
+        <file alias="2-7">images/用户管理.png</file>
+        <file alias="2-1">images/首页.png</file>
+        <file alias="2-4">images/垃圾清理.png</file>
+        <file alias="2-6">images/进程管理.png</file>
+        <file alias="2-5">images/加速优化.png</file>
+        <file alias="2-2">images/基本信息.png</file>
+        <file alias="2-3">images/病毒查杀.png</file>
+        <file alias="logoico">images/mylogo1.png</file>
+        <file>images/users.png</file>
+        <file>images/userlock.png</file>
+        <file alias="bootstart">images/bootstart.png</file>
+        <file alias="bootclose">images/bootclose.png</file>
+        <file alias="tipico">images/小贴士.png</file>
+    </qresource>
+</RCC>

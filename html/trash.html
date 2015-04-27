@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8"/>
+  <head>
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+    <title>垃圾清理</title>
+	<script src="js/RGraph.common.core.js"></script>
+	<script src="js/RGraph.pie.js"></script>
+	<script src="js/RGraph.common.tooltips.js"></script>
+        <script src="js/trash.js"></script>
+	<!--<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/jquery.idTabs.min.js"></script>
+	<script type="text/javascript" src="js/select-ui.min.js"></script>
+	<script type="text/javascript" src="editor/kindeditor.js"></script>-->
+	<style type="text/css">
+          .button{font-size:18px;width:150px;height:40px;color:#000;background:#F0F8FF;}
+          body{text-align:center}
+	</style>
+  </head>
+  <body>
+    <div style="width:550px;height:450px;">
+	  <div style="float:left;width:200px;height:450px;background-color:#f0ffff;">
+		  <br><br>
+		  <img src="images/fullbin.png" id="ima" align="middle" width="200px" height="200px"/>
+		  <p>给计算机瘦个身</p>
+		  <button type="button" id='button' class='button' onclick="trash()" value="查看垃圾">查看垃圾</button>
+	  </div>
+	  <div style="float:left;width:350px;height:450px;background-color:#f0ffff;">
+		  <div id="text"></div>
+	  </div>
+    </div>
+  </body>
+</html>
