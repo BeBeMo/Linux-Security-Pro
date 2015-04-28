@@ -14,8 +14,6 @@
 ##垃圾清理:
 
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%861.png" alt="GitHub"  width="500" height="300" />
-
-<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%861.png" alt="GitHub"  width="500" height="300" />
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%862.png" alt="GitHub"  width="500" height="300" />
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security-Pro/master/screenshot/html/%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%863.png" alt="GitHub"  width="500" height="300" />
 
